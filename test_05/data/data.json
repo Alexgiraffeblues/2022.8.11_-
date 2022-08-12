@@ -1,0 +1,21 @@
+[
+    {
+        "name" : "小明",
+        "sex" : "男",
+        "age" : "20",
+        "school" : "清华大学",
+        "pet_01" : {
+            "species" : "狗",
+            "age" : "1"
+        },
+        "pet_02" : {
+            "species" : "猫",
+            "age" : "2"
+        },
+        "pet_03" : {
+            "species" : "猪",
+            "age" : "3"
+        },
+        "lucky_number" : [2, 5, 8]
+    }
+]
